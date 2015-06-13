@@ -46,6 +46,7 @@ Contents
    volunteers
    venues
    services
+   finances/index
    social-events
    code-of-conduct
    tickets

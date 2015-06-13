@@ -2,8 +2,6 @@
 Talks
 =====
 
-Contents:
-
 .. toctree::
    :maxdepth: 1
 
