@@ -51,7 +51,9 @@ coverage.xml
 *.log
 
 # Sphinx documentation
-docs/_build/
+_build/
 
 # PyBuilder
 target/
+
+.DS_Store
