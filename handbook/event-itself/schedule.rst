@@ -12,7 +12,7 @@ Some events have started with a day of paid-for workshops (PyCon Ireland, Django
 Others have begun with an open day (i.e. free and open to any visitors) of talks and workshops
 (Django Weekend, DjangoCon Europe 2015).
 
-Django Weekend 2015 also turned the two days of sprints into two days of code, with workshops and
+DjangoCon Europe 2015 also turned the two days of sprints into two days of code, with workshops and
 clinics scheduled alongside the sprints.
 
 It's up to you what sort of schedule you adopt, and what sort of emphasis you place on the various
@@ -95,8 +95,34 @@ Sometimes though the conference organisers sometimes leave it to a separate orga
 responsibility for managing the sprints, and the sprints are essentially a fringe activity of the
 main conference.
 
-To be completed
-===============
 
-* days of the week
-* conference social events
+Days of the week
+================
+
+.. note::
+
+    The discussion below assumes that your weekend is Friday and Saturday (there are many parts of
+    the world where this isn't the case).
+
+You'll probably spend a lot of time trying to decide which days your conference should start and
+end on, but it also probably doesn't matter that much when it starts, especially for a large and
+established event.
+
+Even so, an event that starts on a Saturday and ends on a Tuesday somehow seems not quite right;
+dropping your attendees out of the magical bubble of a community conference into the middle of a
+cold hard week will be a shock to their system. So although when it starts might not matter so
+much, it should probably *end* at or just before a weekend.
+
+It's harder for people to justify, to themselves and employers, that they should be attending a
+sprint during the working week, so it's a good idea to have your sprints at the weekend if you can.
+
+PyCon UK traditionally ends with its day of sprints on Monday, having run from the previous Friday
+- and probably would be better attended on that day if it were a Friday, Saturday or Sunday.
+
+For a smaller, newer event, making use of weekends makes sense; a Friday-Sunday conference has a
+nice sense of fit with the working week.
+
+Social events
+=============
+
+See :doc:`/event-itself/social-events`.

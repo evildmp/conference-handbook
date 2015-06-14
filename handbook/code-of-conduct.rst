@@ -27,10 +27,28 @@ otherwise had their enjoyment of a conference spoiled by someone else.
 
 See the :doc:`example </documents/code-of-conduct>` for a suggestion on your code of conduct text.
 
+
+Communicating the code of conduct
+=================================
+
+The code of conduct should be in a prominent place on the :doc:`/communications/website` and in the
+:doc:`/communications/programme-booklet`. It should also be in a visible place on the registration
+desk or on poster around the venues, and specifically mentioned to attendees when they arrive.
+
+Needless to say, your :doc:`/organisation/committee` and :doc:`/organisation/volunteers` need to
+know and understand the code of conduct very well, and what they are supposed to do about it.
+
+
+Code of conduct liaisons
+========================
+
+It's recommended that you have a couple of committee members, one male and one female, who will be
+on-call and available throughout the event. They should each be introduced at the start of the event.
+
+
 To be completed
 ===============
 
-* how to communicate your code of conduct
 * how to enforce it
 * have written procedures
 * things to watch out for

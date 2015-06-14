@@ -21,9 +21,9 @@ Not only does all of this give you the experience of as many aspects as possible
 software events, it also gives other people an experience of you - which is vital when you're
 asking an entire community to trust you with one of the most important weeks in their calendar.
 
-At all points, make a note - not just a mental note, write it down - in a DjangoCon notes file - of
-how it was done, how it worked, what you would do to improve it. Seriously, **don't try to rely on
-your memory**.
+At all points, make a note - not just a mental note, :doc:`/organisation/write-it-down` - in a
+DjangoCon notes file - of how it was done, how it worked, what you would do to improve it.
+Seriously, **don't try to rely on your memory**.
 
 
 Fifteen months
@@ -32,19 +32,21 @@ Fifteen months
 Three months from now you're going to have to present your proposal, so you need some information
 to hand.
 
-Identify your location, your :doc:`venue(s) </venues>`, your ideal dates, your :doc:`general
-schedule </schedule>` and at least some :doc:`fellow organisers </committee>`.
+Identify your location, your :doc:`/essentials/venues`, your ideal dates, your :doc:`general
+schedule </event-itself/schedule>` and at least some :doc:`fellow organisers
+</organisation/committee>`.
 
 Location
 --------
 
 You need to be aware of and make judgements about:
 
-* how will people travel to the location
-* are there easy and reasonably inexpensive connections from most places
-* is there adequate accommodation available locally, and can you reserve it for your attendees
-* will some attendees be excluded, either because they won't be permitted or because they might not
-  be safe from harrassement - for example:
+* how people will travel to the location
+* whether there are easy and reasonably inexpensive connections from most places
+* suitable :doc:`/essentials/accommodation` available locally, that can be reserved for your
+  attendees
+* whether some attendees will be excluded, either because they won't be permitted or because they
+  might not be safe from harrassement - for example:
 
   * Israelis from many Arab countries, and vice-versa
   * gay people in certain countries
@@ -52,21 +54,28 @@ You need to be aware of and make judgements about:
 Dates
 -----
 
-Are your proposed dates affected by public holidays, scheduled elections, sporting events,
-concerts, G8 summits? It can be harder than you think to find a suitable window, especially for a
-larger event in a smaller city.
+Are your proposed dates likely to be affected by public holidays, scheduled elections, sporting
+events, `boy bands <http://2015.djangocon.eu/news/boy-band-disrupts-djangocon-europe/>`_, G8
+summits, religious holidays?
+
+It can be harder than you think to find a suitable window, especially for a larger event
+in a smaller city.
+
+Don't forget that your attendees may need a day either side of the event.
 
 Venues
 ------
 
-Make some initial enquiries at local venues, about:
+Make some initial enquiries at :doc:`local venues </essentials/venues>`, about:
 
 * capacity
 * suitability
 * availability
 * price
-* accessibility
-* Internet provision
+* key :doc:`/essentials/services`:
+  * catering
+  * accessibility
+  * Internet provision
 
 Fellow organisers
 -----------------
@@ -116,7 +125,7 @@ Make your proposal.
 Success?
 --------
 
-If it's successful, be prepared for twelve months of extremely hard work.
+Congratulations, be prepared for twelve months of extremely hard work.
 
 As soon as your proposal is accepted, contact the venues and hotels you previously spoke to and
 start firming up your plans. Scrutinise the calendars very carefully.
@@ -126,14 +135,15 @@ Agree on dates and prices with the venues.
 Agree on special conference pricing with some hotels. Get agreements about the number of rooms that
 will be reserved for your attendees.
 
-Start collecting names and contact details of potential sponsors.
+Start collecting names and contact details of potential :doc:`sponsors </sponsorship>`.
 
 
 Eleven months
 =============
 
-Form :doc:`your committee </committee>`. Have your first meeting. Set up your internal
-communications channels (email list, IRC channel, to-do list, etc.)
+Form :doc:`your committee </organisation/committee>`. Have your first meeting. Set up your
+:doc:`internal communications channels </organisation/internal-communications>` (email list, IRC
+channel, to-do list, etc.)
 
 Depending on local legislation, you may need to form a registered (for example for tax purposes)
 organisation, register for VAT/IVA/sales tax, etc.
@@ -142,16 +152,19 @@ Buy insurance.
 
 Start working on the things you'll need to have made decisions on before you go public:
 
-* numbers of attendees
-* ticket pricing structure
-* sponsorship pricing structure
+* numbers of :doc:`/event-itself/attendees`
+* precise :doc:`/event-itself/schedule`
+* :doc:`ticket </tickets>` pricing structure
+* :doc:`/sponsorship` pricing structure
 * graphic design and artwork
 
 
 Nine months
 ===========
 
-Get quotes for audio-visual services and filming, editing and publishing of the sessions.
+Get quotes for :doc:`audio-visual services and filming, editing and publishing of the sessions
+</essentials/services>`.
+
 
 Eight months
 ============
@@ -160,7 +173,7 @@ Accessibility
 -------------
 
 If you're planning to offer a crèche, or speech-to-text transcription, start discussing this with
-service providers.
+:doc:`/essentials/services` providers.
 
 
 Seven months
@@ -169,10 +182,10 @@ Seven months
 Go public. It's a good idea to use an appropriate established domain (djangocon.eu, for example)
 for website and email, Twitter account, and so on.
 
-Once you have a basic website ready (a single page is enough at this stage, with information about
-the location and the dates), post messages on email lists, the Django weblog, Twitter etc. It's
-worth mentioning that the conference will be governed by a :doc:`/code-of-conduct`, even
-if at this stage that's all you do.
+Once you have a basic :doc:`/communications/website` ready (a single page is enough at this stage,
+with information about the location and the dates), post messages on email lists, the Django
+weblog, Twitter etc. It's worth mentioning that the conference will be governed by a
+:doc:`/code-of-conduct`, even if at this stage mentioning it is all you do.
 
 You need to start collecting sponsors. Some sponsors can be relied upon to sponsor every DjangoCon
 almost without questions, but they are few. Most will need to know full details of sponsorship

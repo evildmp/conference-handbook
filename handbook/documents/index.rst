@@ -2,9 +2,13 @@
 Document templates and examples
 ===============================
 
-Contents:
+
+These are suggested examples of documents that you might find it useful to adapt.
+
 
 .. toctree::
    :maxdepth: 1
 
    code-of-conduct
+   handbook-for-volunteers
+   welcome-address
