@@ -80,7 +80,7 @@ Bed and breakfast accommodation
 
 Let your attendees sort this out for themselves. It's worth noting that depending on where you live,
 "bed and breakfast" can mean quite different things. In the UK, it means what it says. In Germany,
-it apparently doesn't include breakfast. No doubt in some places it doesn't even include a bed.
+it apparently doesn't include breakfast. Perhaps in some places it doesn't even include a bed.
 
 
 Using accommodation complexes

@@ -77,6 +77,7 @@ Make some initial enquiries at :doc:`local venues </essentials/venues>`, about:
 * availability
 * price
 * key :doc:`/essentials/services`:
+
   * catering
   * accessibility
   * Internet provision
@@ -152,7 +153,8 @@ channel, to-do list, etc.)
 Depending on local legislation, you may need to form a registered (for example for tax purposes)
 organisation, register for VAT/IVA/sales tax, etc.
 
-Buy insurance.
+Buy :doc:`/essentials/insurance`; buying insurance that you turn out not to have needed is better
+than needing insurance you didn't buy.
 
 Start working on the things you'll need to have made decisions on before you go public:
 

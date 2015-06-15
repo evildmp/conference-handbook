@@ -7,8 +7,10 @@
 Handbook for open-source software community conference organisers
 =================================================================
 
-The main purpose of this document is to help you avoid being remembered as "that idiot who tried to
-organise a DjangoCon".
+.. note::
+
+    The main purpose of this document is to help you avoid being remembered as "that idiot who
+    tried to organise a DjangoCon".
 
 It's based on the experiences of organising four international events (`Django Weekend Cardiff 2014
 <http://djangoweekend.org>`_, `DjangoCon Europe 2014 <http://2014.djangocon.eu>`_, `Python Namibia
