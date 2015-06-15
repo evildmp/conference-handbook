@@ -2,9 +2,13 @@
 Timeline
 ========
 
+.. note::
 
-Two or three years (at least)
-=============================
+   The timeline is a countdown to the first day of your event. You'll need your own, editable copy,
+   with actual dates in it.
+
+Two or three years
+==================
 
 In order to run a DjangoCon, you need plenty of experience of similar events.
 
