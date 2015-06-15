@@ -19,7 +19,7 @@ other people don't suffer financially as a result.
 Imagine the worst-case scenario: that everyone has turned up in your city ready for your
 conference, and for whatever reason, there is no conference. Perhaps the venue has burned down
 overnight. Perhaps everyone on the committee has fallen too ill to work. Perhaps there's an armed
-siege taking place on that side of town.
+seige taking place on that side of town.
 
 It doesn't have to be anything dramatic: a broken sewer pipe can do the job just as well as
 devasting conflagration.
@@ -51,7 +51,7 @@ against:
   in case we failed to vacate the venue in time, and so on. We were protected against bad weather
   and terrorists, but specifically not against the activity of Icelandic volcanos.
 
-  Our expenses were covered, but *not* loss of net profit (which would make it qute a bit more
+  Our expenses were covered, but *not* loss of net profit (which would have made it qute a bit more
   expensive), since we weren't relying on making any.
 
 * Property damage at the venue: £30'000
