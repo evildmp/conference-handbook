@@ -29,8 +29,9 @@ Announcements from the stage
 
 
 Any important announcements *need to be made multiple times*. People won't be in the room, or won't
-be listening. They should also be backed up in other forms (on the website, via email or a Twitter
-feed for example).
+be listening, or won't hear. These announcements should also be backed up in other forms (on the
+website, via email or a Twitter feed for example).
+
 
 Communications tools
 ====================

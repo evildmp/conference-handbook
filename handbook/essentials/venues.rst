@@ -50,7 +50,8 @@ generally find that they are accommodating and helpful, but ascertain that as so
 
 Use your first meetings to ask everything you can think of; ask them to explain the most basic
 things, and to see as much as possible. If you get a sense that their patience is running out, you
-might want to reconsider working with them, because it will be painful and stressful later on.
+might want to reconsider working with them, because it will be painful and stressful later on when
+you need to rely upon their help and co-operation.
 
 
 Facilities
@@ -62,14 +63,14 @@ Does the venue have adequate network provision? If not, can it be provided?
 Venues for different purposes
 =============================
 
-For your programme of talks, you need a venue that can work to a tight and demanding schedule. For
-sprints, workshops and other events, everything is more relaxed, and you can consider other venues
-too.
+For your :doc:`/talks/programme-of-talks`, you need a venue that can work to a tight and demanding
+schedule. For sprints, workshops and other events, everything is more relaxed, and you can consider
+other venues too.
 
 Universities
 ------------
 
-For sprints and workshops, a local university makes an idea venue. This is especially the case if
+For sprints and workshops, a local university makes an ideal venue. This is especially the case if
 you're not charging for those sessions, which typically makes it easy for a committee member
 involved with a university to book rooms, obtain suitable network/AV support, get official support
 for the event and so on.
@@ -83,3 +84,28 @@ hundreds of people.
 During university vacations, it's even easier to find suitable rooms and halls for your purposes.
 You could even find that the university is able to provide inexpensive accommodation in its halls
 of residence during vacations.
+
+
+Backup venues
+=============
+
+You'd be surprised at the number of apparently non-flammable buildings that catch fire the night
+before someone's important event is due to take place in them. It does happen, and it could happen
+to you.
+
+Don't be distracted by quibbles about likelihood of fire. It doesn't need to be fire; venues can be
+rendered unusable without warning by all kinds of causes: leaking pipes, discovery of asbestos,
+electrical faults, Legionnaire's disease, adverse health and safety inspections, court orders and
+bizarre cases of simple bad luck.
+
+You **must** have :doc:`/essentials/insurance` to cover you financially in the event of a disaster,
+but you also need to look into the possibility of having a backup venue.
+
+For the three main days of talks for `DjangoCon Europe 2015 <http://2015.djangocon.eu>`_ we booked
+a backup venue. It was a much less grand and attractive venue than our primary venue, but would
+certainly have been preferable to no venue at all. We were able to keep this venue on standby at no
+extra charge to us, thanks to our Cardiff University committee members.
+
+In the end it may not be possible or feasible to arrange a backup; not every conference organiser
+can avail themselves of a University's facilities in this way, but it's still worth considering it
+at least and knowing what you would do if the worst were to happen.

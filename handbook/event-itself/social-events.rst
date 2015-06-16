@@ -47,8 +47,9 @@ inappropriate behaviour at events are actually about what happens at conference 
 Code of conduct
 ===============
 
-Ensure that it's made very clear that the conference code of conduct not only applies to all social
-events, but even to informal and unofficial gatherings of people attending the conference.
+Ensure that it's made very clear that the :doc:`conference code of conduct </code-of-conduct>` not
+only applies to all social events, but even to informal and unofficial gatherings of people
+attending the conference.
 
 Dietary requirements
 ====================

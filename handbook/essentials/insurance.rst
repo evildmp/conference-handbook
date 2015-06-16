@@ -73,3 +73,11 @@ This cover for six days at our two venues, provided by `Hiscox Events Insurance
 <http://www.hiscox.co.uk/events/>`_ cost us just under £620 and took half an hour to arrange. It
 was a small price to pay for the peace of mind. We never did have to find out whether we were
 covered against boy bands.
+
+
+Insurance is not enough
+=======================
+
+As noted above, insurance might save you financially, but might not be able to save your event. You
+also need to build backups and redundancy into your plans, from backup :doc:`/essentials/venues` to
+making sure that more than one member of the committee has access to bank accounts and so on.
