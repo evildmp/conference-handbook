@@ -32,11 +32,11 @@ Twitter may be an appalling form of communication and a sign that civilisation i
 final decline, but it does have its uses for an event, and can do an excellent job of spreading
 "buzzy" news.
 
-It's a very bad way of communicating important information though. Not everyone uses Twitter, and
-assuming that they do serves to exclude many people. It is courteous to send important information
-via email.
+**Twitter is a very bad way of communicating important information** though. Not everyone uses
+Twitter, and assuming that they do excludes them. It is courteous to send important information via
+email.
 
-Don't even consider using Facebook or other closed medium for circulating conference information.
+Don't even consider using Facebook or another closed medium for circulating conference information.
 
 
 To be completed

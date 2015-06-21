@@ -2,7 +2,7 @@
 Write it down
 =============
 
-.. warning:: You cannot rely on your memory, however good it is.
+.. warning:: **You cannot rely on your memory, however good it is.**
 
     The successful planning and execution of a conference requires an olympian feat of attention to
     detail.
@@ -56,4 +56,3 @@ To be completed
 ===============
 
 * tracking things that need to be done
-* using the timeline

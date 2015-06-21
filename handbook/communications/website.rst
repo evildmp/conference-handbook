@@ -32,7 +32,7 @@ Next most urgent are:
 * accommodation
 * services that some people will rely upon, such as a crèche or speech-to-text reporting
 
-You should also publish your :doc:`/code-of-conduct`.
+You should also publish your :doc:`/policies/code-of-conduct`.
 
 These are the things that will allow people to commit themselves to the event.
 

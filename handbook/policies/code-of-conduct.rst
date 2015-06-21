@@ -25,7 +25,7 @@ and more).
 These questions are only ever raised by people who have never been harrassed, insulted, abused or
 otherwise had their enjoyment of a conference spoiled by someone else.
 
-See the :doc:`example </documents/code-of-conduct>` for a suggestion on your code of conduct text.
+See the :doc:`example </documents/code-of-conduct>` for a suggested code of conduct text.
 
 
 Communicating the code of conduct
@@ -43,12 +43,22 @@ Code of conduct liaisons
 ========================
 
 It's recommended that you have a couple of committee members, one male and one female, who will be
-on-call and available throughout the event. They should each be introduced at the start of the event.
+on-call and available throughout the event. They should each be introduced at the start of the
+event, and mentioned in the programme booklet and on the website.
+
+
+Documented procedures
+=====================
+
+It's useless to have a code of conduct without having properly-documented procedures for its
+enforcement. They should be written down and communicated to every volunteer.
+
+How to raise a code of conduct issue also needs to be communicated to the general conference
+audience.
 
 
 To be completed
 ===============
 
 * how to enforce it
-* have written procedures
 * things to watch out for

@@ -8,3 +8,4 @@ Talks
    call-for-proposals
    choosing-talks
    programme-of-talks
+   timetable

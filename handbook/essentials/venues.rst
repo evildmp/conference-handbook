@@ -85,6 +85,7 @@ During university vacations, it's even easier to find suitable rooms and halls f
 You could even find that the university is able to provide inexpensive accommodation in its halls
 of residence during vacations.
 
+.. _backup_venues:
 
 Backup venues
 =============

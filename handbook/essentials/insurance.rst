@@ -42,8 +42,9 @@ An example
 There are various kinds of insurance for events, and numerous companies that specialise in
 providing events insurance.
 
-For `DjangoCon Europe 2015 <http://2015.djangocon.eu>`_ Europe 2015, our insurance included cover
-against:
+For `DjangoCon Europe 2015 <http://2015.djangocon.eu>`_ Europe 2015, our insurance or six days at
+our two venues cost us just under £620 and took half an hour to arrange. It was a small price to
+pay for the peace of mind. It included cover against:
 
 * Cancellation/abandoment of the event: £117'000
 
@@ -69,15 +70,12 @@ against:
 
   Obviously we had no employees, but even unpaid volunteers count as employees.
 
-This cover for six days at our two venues, provided by `Hiscox Events Insurance
-<http://www.hiscox.co.uk/events/>`_ cost us just under £620 and took half an hour to arrange. It
-was a small price to pay for the peace of mind. We never did have to find out whether we were
-covered against boy bands.
+Our cover was provided by `Hiscox Events Insurance <http://www.hiscox.co.uk/events/>`_.
 
 
 Insurance is not enough
 =======================
 
 As noted above, insurance might save you financially, but might not be able to save your event. You
-also need to build backups and redundancy into your plans, from backup :doc:`/essentials/venues` to
+also need to build backups and redundancy into your plans, from backup :ref:`backup_venues` to
 making sure that more than one member of the committee has access to bank accounts and so on.

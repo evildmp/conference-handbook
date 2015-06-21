@@ -2,10 +2,18 @@
 Timeline
 ========
 
-.. note::
+.. note:: How to use the timeline
 
-   The timeline is a countdown to the first day of your event. You'll need your own, editable copy,
+   The timeline is a calendar that counts down to the first day of your event. It this gives you a
+   clear synoptic and *visual* indication of your progress. You'll need your own, editable copy,
    with actual dates in it.
+
+   You will need to adapt it to your own needs. For example if you have decided to hold an event in
+   six months' time, you'll need to compress the timeline substantially.
+
+   For each date in the timeline, any item that can't be checked off needs to be moved forward to
+   the next day or week.
+
 
 Two or three years
 ==================
@@ -87,8 +95,8 @@ Fellow organisers
 
 Whoever you have on paper at this stage won't necessarily be the ones involved in the end. People
 you haven't met will want to join in (and will turn out to be excellent contributors), and some who
-expected to be able to contribute will have have to withdraw. But you still need to have a few
-people who plan to be involved. No-one's going to be very keen on a proposal that mentions only one
+expected to be able to contribute will have to withdraw. But you still need to have a few people
+who plan to be involved. No-one's going to be very keen on a proposal that mentions only one
 organiser.
 
 If the other organisers have some experience already, so much the better.
@@ -191,7 +199,7 @@ for website and email, Twitter account, and so on.
 Once you have a basic :doc:`/communications/website` ready (a single page is enough at this stage,
 with information about the location and the dates), post messages on email lists, the Django
 weblog, Twitter etc. It's worth mentioning that the conference will be governed by a
-:doc:`/code-of-conduct`, even if at this stage mentioning it is all you do.
+:doc:`/policies/code-of-conduct`, even if at this stage mentioning it is all you do.
 
 You need to start collecting sponsors. Some sponsors can be relied upon to sponsor every DjangoCon
 almost without questions, but they are few. Most will need to know full details of sponsorship
@@ -215,7 +223,7 @@ Programme
 
 Think about:
 
-* keynote talk slots (how many, potential speakers, how long)
+* :ref:`keynote talk <keynote_talks>` slots (how many, potential speakers, how long)
 * timetables
 * length of available talk slots
 * tracks

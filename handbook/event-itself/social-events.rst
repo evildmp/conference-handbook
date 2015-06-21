@@ -24,6 +24,7 @@ sprints are being treated as an integral part of the event, not an add-on.
 If you can afford it, taking your speakers, volunteers and sponsors to dinner is a nice way to say
 thank-you.
 
+
 Alcohol
 =======
 
@@ -44,12 +45,14 @@ It's strongly advisable not to furnish attendees with excessive quantities of fr
 combination of drink and high spirits can easily take a wrong direction. Many complaints of
 inappropriate behaviour at events are actually about what happens at conference parties.
 
+
 Code of conduct
 ===============
 
-Ensure that it's made very clear that the :doc:`conference code of conduct </code-of-conduct>` not
-only applies to all social events, but even to informal and unofficial gatherings of people
-attending the conference.
+Ensure that it's made very clear that the :doc:`conference code of conduct
+</policies/code-of-conduct>` not only applies to all social events, but even to informal and
+unofficial gatherings of people attending the conference.
+
 
 Dietary requirements
 ====================
@@ -64,6 +67,7 @@ to be catered for, and to supply the caterers with that information *in advance*
 Check with the caterers to ensure that they have the information required, that food is
 appropriately labelled (for allergies, vegetarians, etc) and that if people need to ask for
 specially-prepared meals, they know that they have to ask and whom to ask.
+
 
 Being a good host
 =================

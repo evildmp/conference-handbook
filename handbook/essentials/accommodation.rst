@@ -3,7 +3,7 @@ Accommodation
 =============
 
 
-.. important:: No accommodation means no conference
+.. important:: **No accommodation means no conference**
 
    You can't have a conference without attendees, and you can't have attendees without
    accommodation. There will be no conference if your attendees don't have a place to stay.
@@ -13,7 +13,7 @@ Most of the people coming to your event will be coming from out-of-town.
 Accommodation needs to be within walking distance of the venue, or at least within inexpensive
 reach using public transport.
 
-.. warning:: The accommodation worst-case scenario
+.. warning:: **The accommodation worst-case scenario**
 
    At DjangoCon Europe 2015, we failed to reserve hotel accommodation in time. We made our plans
    and our announcements, and meanwhile, `a boy band with a huge teenage following announced their
