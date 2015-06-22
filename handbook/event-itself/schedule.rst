@@ -18,6 +18,7 @@ clinics scheduled alongside the sprints.
 It's up to you what sort of schedule you adopt, and what sort of emphasis you place on the various
 parts of it.
 
+.. _paid_for_workshops:
 
 Paid-for workshops
 ==================
@@ -33,6 +34,7 @@ On the other hand, be aware that if you're selling places at a workshop, then th
 we're-all-in-this-together attitude of a DjangoCon workshop might not be appropriate, and the
 workshop leaders will need to be aware of this.
 
+.. _open_day:
 
 Open day
 ========
@@ -55,6 +57,8 @@ than one of perceived experts, while some talks may simply be more suited to thi
 Finally, an open day helps you spread your registration out over an extra day, and can take a great
 deal of pressure off you and your volunteers.
 
+.. _talks:
+
 Talks
 =====
 
@@ -68,6 +72,7 @@ highest.
 Planning a good day of talks, or days of talks, is an art, and you have to choose between numerous
 different approaches and structures even before you consider the content of the programme.
 
+.. _sprints:
 
 Sprints
 =======

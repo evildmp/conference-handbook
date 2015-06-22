@@ -3,11 +3,13 @@ Committee
 =========
 
 
-You can't do this alone. It will be damaging for you, and extremely risky for the event.
+.. warning::
 
-You need to find ways to build collaboration into the working process early on. If you're not good
-at that - for example if your natural inclination is to find it easier to do everything yourself -
-you need to start learning how to do it.
+   **You can't do this alone. It will be damaging for you, and extremely risky for the event.**
+
+   You need to find ways to build collaboration into the working process early on. If you're not
+   good at that - for example if your natural inclination is to find it easier to do everything
+   yourself - you need to start learning how to do it.
 
 
 Committee roles
@@ -48,11 +50,11 @@ Your committe should have a formal:
 
 There are also other roles that need to be allocated; one person can take on more than one of these, and people can be jointly responsible:
 
-* Communications - publicity, news
+* :doc:`/communications/index` - publicity, news
 * Designer - print and web, posters, banners, t-shirts, badges
 * Webmaster - web content and updates
-* Tickets - responsible for tickets, refunds, allocations
-* Sponsorship
+* :doc:`/tickets` - responsible for tickets, refunds, allocations
+* :doc:`/sponsorship`
 
 
 Fostering collaboration
@@ -116,7 +118,7 @@ You'll soon find if a delegated responsibility isn't something one of your team 
 to deal with, and if you do this early in the planning process, it won't matter very much. If you
 discover it later on, it could be more of a problem.
 
-.. important:: Everything you don't delegate will be something you have to do yourself.
+.. important:: **Everything you don't delegate will be something you have to do yourself.**
 
    If you think delegation's hard, try doing everything yourself. A conference organised by a
    heroic do-it-all might be a success, but is at great risk of being a disaster, and a bad

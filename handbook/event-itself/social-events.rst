@@ -34,12 +34,12 @@ Be aware that:
 * alcoholic drinks are more expensive than other drinks
 * alcohol has been known to fuel unwanted behaviour
 
+It's fair to ensure that your non-drinking attendees are also catered for.
+
 If you're going to provide alcohol at social events or meals, it means that the non-drinkers are
 paying for the drinkers' pleasure. This doesn't necessarily mean you shouldn't do it, as there will
 be numerous aspects of the event that some people are "paying for" but won't benefit from, and
 that's simply unavoidable.
-
-It's fair to ensure that your non-drinking attendees are also catered for.
 
 It's strongly advisable not to furnish attendees with excessive quantities of free alcohol. The
 combination of drink and high spirits can easily take a wrong direction. Many complaints of
@@ -68,6 +68,8 @@ Check with the caterers to ensure that they have the information required, that 
 appropriately labelled (for allergies, vegetarians, etc) and that if people need to ask for
 specially-prepared meals, they know that they have to ask and whom to ask.
 
+It will help your attendees, and save you time because then people won't need to ask you, if you're
+able to provide good information about food, in advance, to attendees.
 
 Being a good host
 =================

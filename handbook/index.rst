@@ -14,9 +14,14 @@ Handbook for open-source software community conference organisers
 
 The handbook was created by Daniele Procida, Community and Documentation Manager at `Divio AG
 <http://divio.ch>`_ of Zürich. It's based on the experiences of organising four international
-events (`Django Weekend Cardiff 2014 <http://djangoweekend.org>`_, `DjangoCon Europe 2014
-<http://2014.djangocon.eu>`_, `Python Namibia 2015 <http://python-namibia.org>`_ and `DjangoCon
-Europe 2015 <http://2015.djangocon.eu>`_) as well as attending many more.
+events:
+
+* `Django Weekend Cardiff 2014 <http://djangoweekend.org>`_
+* `DjangoCon Europe 2014 <http://2014.djangocon.eu>`_
+* `Python Namibia 2015 <http://python-namibia.org>`_
+* `DjangoCon Europe 2015 <http://2015.djangocon.eu>`_
+
+as well as attending many more.
 
 It's also aimed particularly at organisers of Python/Django community events, and reflects the
 traditions and values of PyCons and DjangoCons.

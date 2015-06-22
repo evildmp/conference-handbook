@@ -186,8 +186,8 @@ Eight months
 Accessibility
 -------------
 
-If you're planning to offer a crèche, or speech-to-text transcription, start discussing this with
-:doc:`/essentials/services` providers.
+If you're planning to offer a crèche, or :ref:`speech-to-text transcription <sttr>`, start
+discussing this with :doc:`/essentials/services` providers.
 
 
 Seven months
