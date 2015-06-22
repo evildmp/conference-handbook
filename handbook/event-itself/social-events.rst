@@ -54,23 +54,6 @@ Ensure that it's made very clear that the :doc:`conference code of conduct
 unofficial gatherings of people attending the conference.
 
 
-Dietary requirements
-====================
-
-There are few things more miserable than going without food because you can't eat anything that has
-been provided and no-one thought to ensure that there'd be something for you.
-
-For religious, medical or other reasons some people can't eat certain things. If you're taking
-people to a restaurant or feeding them, you need to know how many special dietary requirements need
-to be catered for, and to supply the caterers with that information *in advance*.
-
-Check with the caterers to ensure that they have the information required, that food is
-appropriately labelled (for allergies, vegetarians, etc) and that if people need to ask for
-specially-prepared meals, they know that they have to ask and whom to ask.
-
-It will help your attendees, and save you time because then people won't need to ask you, if you're
-able to provide good information about food, in advance, to attendees.
-
 Being a good host
 =================
 

@@ -1,17 +1,49 @@
-========
-Services
-========
+==============
+Other services
+==============
 
 
 To be completed
 ===============
 
-* catering
-* Internet
 * audio-visual services
 * filming
-* speech-to-text reporting
 * crèche
+
+
+Internet access
+===============
+
+Everyone at a software conference expects to be provided with wireless Internet access. This
+doesn't necessarily mean they should have it. In fact, there's a strong case that people listening
+to talks don't *shouldn't* be using the Internet at the same time, but should be paying attention,
+and there's no reason why you shouldn't point this out and discourage Internet use in the
+auditorium.
+
+All the same, some people do *need* access, perhaps because:
+
+* they are doing live demos in their talks
+* they are writing up and publishing reports of each talk (see the magnificent work of `Reinout van
+  Rees <http://reinout.vanrees.org/weblog/tags/django.html>`_ or `Hamish Downer
+  <http://foobacca.github.io/foobacca-event-notes/index.html>`_ for examples of this valuable
+  public service)
+* they have work to do
+
+Capacity
+--------
+
+Don't just accept assurances that your venues' network capacity will be up to the job. The problem
+with access - and there is almost *always* a problem, somewhere - is rarely one of bandwidth, but
+one of connectivity to the wireless network.
+
+You may have 350 attendees, but that doesn't mean 350 devices - most people will have a laptop and
+a phone, and others may even have three or more devices. 350 attendees could quite easily be nearly
+a thousand devices on the network at once.
+
+Make sure the network providers understand this. Have a direct mobile telephone number of one or
+preferably two people whom you can call on if you run into serious problems. Have a plan for backup
+or alternative network provision.
+
 
 .. _sttr:
 

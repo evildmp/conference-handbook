@@ -11,5 +11,6 @@ for attendees, catering for them and things like Internet and audio-visual servi
 
    venues
    accommodation
+   catering
    services
    insurance

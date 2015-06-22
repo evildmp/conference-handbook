@@ -11,6 +11,7 @@ For internal communications *within* the organising team, see
    website
    programme-booklet
    during
+   after
 
 All communication for your event is a balancing act between *too much* and *too little*.
 
@@ -37,11 +38,3 @@ Twitter, and assuming that they do excludes them. It is courteous to send import
 email.
 
 Don't even consider using Facebook or another closed medium for circulating conference information.
-
-
-To be completed
-===============
-
-* after the event
-
-  * update this document
