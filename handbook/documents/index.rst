@@ -12,3 +12,4 @@ These are suggested examples of documents that you might find it useful to adapt
    code-of-conduct
    handbook-for-volunteers
    welcome-address
+   sponsorship-request

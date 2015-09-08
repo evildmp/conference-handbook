@@ -2,8 +2,7 @@
 Code of conduct
 ===============
 
-This is a suggested template.
-
+[This is a suggested template.]
 
 Preamble
 ========

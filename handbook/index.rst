@@ -59,6 +59,7 @@ Contents
    tickets
    sponsorship
    talks/index
+   procedures/index
    documents/index
 
 

@@ -10,6 +10,7 @@ To be completed
 * filming
 * crèche
 
+.. _internet:
 
 Internet access
 ===============

@@ -73,7 +73,8 @@ summits, religious holidays?
 It can be harder than you think to find a suitable window, especially for a larger event
 in a smaller city.
 
-Don't forget that your attendees may need a day either side of the event.
+Don't forget that your attendees may need a day either side of the event if they are travelling
+long distances.
 
 Venues
 ------
@@ -86,9 +87,9 @@ Make some initial enquiries at :doc:`local venues </essentials/venues>`, about:
 * price
 * key :doc:`/essentials/services`:
 
-  * catering
+  * :ref:`catering`
   * accessibility
-  * Internet provision
+  * :ref:`Internet provision <internet>`
 
 Fellow organisers
 -----------------
@@ -210,8 +211,8 @@ as PDF.
 
 Start contacting potential sponsors.
 
-Make sure your venues have firm bookings for you. Start discussing catering arrangements with the
-venues.
+Make sure your venues have firm bookings for you. Start discussing :ref:`catering arrangements
+<catering>` with the venues.
 
 Make sure that your arrangements with hotels are firmly in place.
 
