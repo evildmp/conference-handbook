@@ -14,6 +14,7 @@ To be completed
 
 * free tickets
 * questions on tickets - get them in early
+
   * t-shirts
   * which days will you be here
   * dietary requirements

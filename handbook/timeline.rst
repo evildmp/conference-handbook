@@ -18,10 +18,11 @@ Timeline
 Two or three years
 ==================
 
-In order to run a DjangoCon, you need plenty of experience of similar events.
+In order to run a `DjangoCon <http://djangocon.eu>`_, you need plenty of experience of similar
+events.
 
 Go to a DjangoCon, so you know what it's really like. In fact, don't just go to a DjangoCon, go to
-your local PyCon and any other events you can.
+your local `PyCon <http://www.pycon.org>`_ and any other events you can.
 
 Better still, volunteer as a helper, or get involved - as a committee member, with talks selection,
 finding sponsors. Do any job that you think you can, so you get a bit of experience of it, and
@@ -194,8 +195,8 @@ discussing this with :doc:`/essentials/services` providers.
 Seven months
 ============
 
-Go public. It's a good idea to use an appropriate established domain (djangocon.eu, for example)
-for website and email, Twitter account, and so on.
+Go public. It's a good idea to use an appropriate established domain (``djangocon.eu``, for
+example) for website and email, Twitter account, and so on.
 
 Once you have a basic :doc:`/communications/website` ready (a single page is enough at this stage,
 with information about the location and the dates), post messages on email lists, the Django

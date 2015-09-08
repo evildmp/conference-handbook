@@ -56,6 +56,7 @@ Similar to Gold, but includes:
 * a full-page advertisement in the conference programme
 * four complimentary tickets to the conference
 
+.. _sponsorship_prospectus:
 
 Sponsorship prospectus
 ======================
@@ -79,8 +80,8 @@ always better to write directly to a named person, preferably one with whom you'
 contact.
 
 Write describing the event, mentioning the web page listing your sponsorship levels, and including
-a copy of the sponsorship prospectus. See the :doc:`sponsorship request template
-</documents/sponsorship-request>` for suggestions.
+a copy of the :ref:`sponsorship prospectus <sponsorship_prospectus>`. See the :doc:`sponsorship
+request template </documents/sponsorship-request>` for suggestions.
 
 
 To be completed
