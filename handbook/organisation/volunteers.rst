@@ -80,7 +80,7 @@ this should be provided in written form.
 Thanking your volunteers
 ========================
 
-It's important to make it clear what the deal is for volunteers. :doc:`everybody-pays`, but it's
+It's important to make it clear what the deal is for volunteers. :doc:`/policies/everybody_pays`, but it's
 fair enough to offer a volunteer-rate ticket. Your volunteers deserve to come to a speaker's dinner
 if there is one, and don't forget to have them all on stage at the end of the event to receive
 thanks from the audience.
