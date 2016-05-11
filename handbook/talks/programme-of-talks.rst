@@ -9,8 +9,9 @@ people, that could be the sprints, or a workshop or making new friends) but the 
 is what most people will come for, what most employers will pay for their delegates to attend, and
 it's the formal structure at the heart of the conference.
 
-It's the easiest part of conference to understand - try explaining a code sprint to someone who
-hasn't been to one, and the only part that many people are actually able to make judgements about.
+It's the easiest part of conference to understand (try explaining a code sprint for example to
+someone who hasn't been to one) and the only part that many people are actually able to make
+judgements about.
 
 So, you need to get this right, in advance, and to be able to promise and subsequently advertise a rich and balanced programme.
 

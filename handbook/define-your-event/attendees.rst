@@ -1,3 +1,5 @@
+.. _attendees:
+
 =========
 Attendees
 =========

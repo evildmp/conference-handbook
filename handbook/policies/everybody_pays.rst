@@ -1,3 +1,5 @@
+.. everybody-pays:
+
 ==============
 Everybody pays
 ==============

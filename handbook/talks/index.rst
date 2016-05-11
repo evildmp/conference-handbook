@@ -1,6 +1,8 @@
-=====
-Talks
-=====
+.. _programme:
+
+=========
+Programme
+=========
 
 .. toctree::
    :maxdepth: 1

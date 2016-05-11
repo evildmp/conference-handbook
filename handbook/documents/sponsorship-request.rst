@@ -4,7 +4,7 @@ Sponsorship request
 
 [This is a suggested template.]
 
-Dear Name of Contact,
+Dear [name of contact],
 
 Following the success of [your conference] last year, this year's edition will be held in [location] at [venue], from [date] to [date]: [link to your website].
 

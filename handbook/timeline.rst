@@ -1,12 +1,14 @@
+.. _timeline:
+
 ========
 Timeline
 ========
 
 .. note:: How to use the timeline
 
-   The timeline is a calendar that counts down to the first day of your event. It this gives you a
-   clear synoptic and *visual* indication of your progress. You'll need your own, editable copy,
-   with actual dates in it.
+   The timeline is a calendar that **counts down** to the first day of your event. It this gives
+   you a clear synoptic and *visual* indication of your progress. You'll need your own, editable
+   copy, with actual dates in it.
 
    You will need to adapt it to your own needs. For example if you have decided to hold an event in
    six months' time, you'll need to compress the timeline substantially.
@@ -18,8 +20,8 @@ Timeline
 Two or three years
 ==================
 
-In order to run a `DjangoCon <http://djangocon.eu>`_, you need plenty of experience of similar
-events.
+In order to run a `DjangoCon <http://djangocon.eu>`_ or something like it, you need plenty of
+experience of similar events.
 
 Go to a DjangoCon, so you know what it's really like. In fact, don't just go to a DjangoCon, go to
 your local `PyCon <http://www.pycon.org>`_ and any other events you can.
@@ -45,8 +47,8 @@ Fifteen months
 Three months from now you're going to have to present your proposal, so you need some information
 to hand.
 
-Identify your location, your :doc:`/essentials/venues`, your ideal dates, your :doc:`general
-schedule </event-itself/schedule>` and at least some :doc:`fellow organisers
+Identify your location, your :doc:`/essentials/venues`, your ideal dates, your :ref:`general
+schedule <schedule>` and at least some :doc:`fellow organisers
 </organisation/committee>`.
 
 Location
@@ -168,8 +170,8 @@ than needing insurance you didn't buy.
 
 Start working on the things you'll need to have made decisions on before you go public:
 
-* numbers of :doc:`/event-itself/attendees`
-* precise :doc:`/event-itself/schedule`
+* numbers of :ref:`attendees`
+* precise :ref:`schedule`
 * :doc:`ticket </tickets>` pricing structure
 * :doc:`/sponsorship` pricing structure
 * graphic design and artwork
