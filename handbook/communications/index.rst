@@ -1,3 +1,5 @@
+.. _communications:
+
 ==============
 Communications
 ==============

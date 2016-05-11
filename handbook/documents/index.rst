@@ -1,3 +1,5 @@
+.. _documents:
+
 ===============================
 Document templates and examples
 ===============================

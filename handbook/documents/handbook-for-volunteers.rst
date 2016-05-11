@@ -182,7 +182,7 @@ At the start of each day
 Before each session
 -------------------
 
-make sure your Co-ordinator knows you’re there
+* make sure your Co-ordinator knows you’re there
 
 
 Time cards

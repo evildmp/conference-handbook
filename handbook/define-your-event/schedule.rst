@@ -1,3 +1,5 @@
+.. _schedule:
+
 ========
 Schedule
 ========
@@ -130,4 +132,4 @@ nice sense of fit with the working week.
 Social events
 =============
 
-See :doc:`/event-itself/social-events`.
+See :ref:`social-events`.

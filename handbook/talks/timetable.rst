@@ -12,45 +12,31 @@ adequate room for breaks and lunches and changeovers, and that adds up to a good
 Some timetabling rules of thumb
 ===============================
 
-* it simplifies things if every session can start on on the hour or half-hour.
-
-* the maximum time between breaks should be two hours - it's too much to ask your attendees and
-  their coffee-filled bladders to last longer than that at a time
-
-* more than one long talk (40-60 minutes including questions) without a break in between is
-  excessive
-
-* don't make a long talk the last one before lunch or a break
-
-* try to avoid asking your attendees to sit through more than seven hours' worth of talks a day
-
-* hold :ref:`lightning_talks` early on in the programme, so that people who experience them for the
-  first time get the opportunity to think: *I could do that*
-
-* build some slack into the programme to allow for the unexpected, and to recover from it
-
-* give yourself small buffers:
-  * around the start and first talk
-  * before and after breaks
-
-  They will fill themselves up naturally, and if they don't, nobody will be inconvenienced
-
-* the slot before lunch should be lively and fast-moving, otherwise attendees' thoughts start to
-  drift towards their next meal
-
-* the session after lunch needs to be light, fast, short and preferably amusing, because many
+* It simplifies things if every session can start on on the hour or half-hour.
+* The maximum time between breaks should be two hours - it's too much to ask your attendees and
+  their coffee-filled bladders to last longer than that at a time.
+* More than one long talk (40-60 minutes including questions) without a break in between is
+  excessive.
+* Don't make a long talk the last one before lunch or a break.
+* Try to avoid asking your attendees to sit through more than seven hours' worth of talks a day.
+* Hold :ref:`lightning_talks` early on in the programme, so that people who experience them for the
+  first time get the opportunity to think: *I could do that*.
+* Build some slack into the programme to allow for the unexpected, and to recover from it.
+* Give yourself small buffers around the start and first talk and before and after break - they will fill themselves up
+  naturally, and if they don't, nobody will be inconvenienced.
+* The slot before lunch should be lively and fast-moving, otherwise attendees' thoughts start to
+  drift towards their next meal.
+* The session after lunch needs to be light, fast, short and preferably amusing, because many
   people will be experiencing a post-prandial slump - it's a bad idea to put a long and difficult
-  technical talk in this slot
-
-* a good way of dividing up the day is:
-
-  * a first morning session
-  * a break
-  * a second morning session
-  * lunch
-  * a first afternoon session
-  * a break
-  * a second afternoon session
+  technical talk in this slot.
+* A good way of dividing up the day is:
+    * a first morning session
+    * a break
+    * a second morning session
+    * lunch
+    * a first afternoon session
+    * a break
+    * a second afternoon session
 
 
 
@@ -81,35 +67,33 @@ You *can* create a 60-minute slot this way, but that's a very long talk. If you 
 that's longer than 30 minutes, it's better to make it about 45 minutes and use the remaining time
 for announcements, welcome addresses and so on, as in the example of the opening keynote talk.
 
-Start times are prices.
+Start times are nominal.
 
 Timetable
 ^^^^^^^^^
 
-* 09.00 Welcome and introduction
-* 09.15 Keynote talk
-* 10.00 Talk 2
-* 10.30 Talk 3
-
-* 11.00 Break
-
-* 11.30 Talk 4
-* 12.00 Talk 5
-* 12.30 Talk 6
-
-* 13.00 Lunch
-
-* 14.00 Talk 7
-* 14.30 Talk 8
-* 15.00 Talk 9
-
-* 15.30 Break
-
-* 16.00 Talk 8
-* 16.30 Talk 9
-* 17.00 Lightning talks
-* 17.50 Closing remarks (if required)
-* 18.00 Close
+* First morning sessions
+    * 09.00 Welcome and introduction
+    * 09.15 Keynote talk
+    * 10.00 Talk 2
+    * 10.30 Talk 3
+* 11.00 *Break*
+* Second morning sessions
+    * 11.30 Talk 4
+    * 12.00 Talk 5
+    * 12.30 Talk 6
+* 13.00 *Lunch*
+* First afternoon sessions
+    * 14.00 Talk 7
+    * 14.30 Talk 8
+    * 15.00 Talk 9
+* 15.30 *Break*
+* Second afternoon sessions
+    * 16.00 Talk 8
+    * 16.30 Talk 9
+    * 17.00 Lightning talks
+    * 17.50 Closing remarks (if required)
+* 18.00 *Close*
 
 Plan two: 20-minute slots
 -------------------------
@@ -127,32 +111,31 @@ small announcements and so on.
 Timetable
 ^^^^^^^^^
 
-* 09.00 Welcome and introduction
-* 09.10 Talk 1
-* 09.50 Talk 2
-* 10.10 Talk 3
-* 10.30 Talk 4
-
-* 11.00	Break
-
-* 11.30 Talk 5
-* 11.50 Talk 6
-* 12.10 Talk 7
-* 12.30 Talk 8
-
-* 13.00	Lunch
-
-* 14.00 Talk 9
-* 14.20 Talk 10
-* 14.40 Talk 11
-* 15.00 Talk 12
-* 15.30	Break
-* 16.00 Talk 13
-* 16.20 Talk 14
-* 16.40 Talk 15
-* 17.00 Talk 16
-*
-* 17.30 Close
+* First morning sessions
+    * 09.00 Welcome and introduction
+    * 09.10 Talk 1
+    * 09.50 Talk 2
+    * 10.10 Talk 3
+    * 10.30 Talk 4
+* 11.00	*Break*
+* Second morning sessions
+    * 11.30 Talk 5
+    * 11.50 Talk 6
+    * 12.10 Talk 7
+    * 12.30 Talk 8
+* 13.00	*Lunch*
+* First afternoon sessions
+    * 14.00 Talk 9
+    * 14.20 Talk 10
+    * 14.40 Talk 11
+    * 15.00 Talk 12
+* 15.30	*Lunch*
+* Second afternoon sessions
+    * 16.00 Talk 13
+    * 16.20 Talk 14
+    * 16.40 Talk 15
+    * 17.00 Talk 16
+* 17.30 *Close*
 
 
 Plan three: long and short talks
@@ -168,33 +151,38 @@ Start times are nominal.
 Timetable
 ^^^^^^^^^
 
-* 09.00 Welcome and introduction
-* 09.20 Keynote talk
-* 10.10 Short talk
-* 10.30 Short talk
-* 10.50 Announcement
+* First morning sessions
+    * 09.00 Welcome and introduction
+    * 09.20 Keynote talk
+    * 10.10 Short talk
+    * 10.30 Short talk
+    * 10.50 Announcement
 
 **or**
 
-* 09.00 Welcome and introduction
-* 09.10 Keynote talk
-* 10.00 Short talk
-* 10.20 Short talk
-* 10.40 Short talk
-* 11.00 Break
-* 11.30 Long talk
-* 12.20 Short talk
-* 12.40 Short talk
-* 13.00 Lunch
-* 14.30 Short talk (note that there are no long talks in this post-lunch session)
-* 15.00 Short talk
-* 15.20 Short talk
-* 15.40 Short talk
-* 16.00 Break
-* 16.30 Long talk
-* 17.20 Lightning talks
-* 17.50 Closing remarks (if required)
-* 18.00 Close
+* First morning sessions
+    * 09.00 Welcome and introduction
+    * 09.10 Keynote talk
+    * 10.00 Short talk
+    * 10.20 Short talk
+    * 10.40 Short talk
+* 11.00 *Break*
+* Second morning sessions
+    * 11.30 Long talk
+    * 12.20 Short talk
+    * 12.40 Short talk
+* 13.00 *Lunch*
+* First afternoon sessions
+    * 14.30 Short talk (note that there are no long talks in this post-lunch session)
+    * 15.00 Short talk
+    * 15.20 Short talk
+    * 15.40 Short talk
+* 16.00 *Break*
+* Second afternoon sessions
+    * 16.30 Long talk
+    * 17.20 Lightning talks
+    * 17.50 Closing remarks (if required)
+* 18.00 *Close*
 
 
 Breaks
@@ -204,6 +192,6 @@ Lunches
 -------
 
 Different cultures have different expectations for lunch. Your French or Italian attendees might be
-a vaguely appalled to when confronted by a lunch hour that's only 60 minutes long, while a north
+a vaguely appalled to be confronted by a lunch hour that's only 60 minutes long, while a north
 American or northern European might consider lunch at 13.00 to be on the late side. Adjust your
 timetable accordingly.
