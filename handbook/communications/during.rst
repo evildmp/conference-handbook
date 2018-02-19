@@ -1,3 +1,5 @@
+.. _communications-during:
+
 ================
 During the event
 ================

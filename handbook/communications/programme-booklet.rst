@@ -1,3 +1,5 @@
+.. _programme-booklet:
+
 =================
 Programme booklet
 =================
@@ -18,8 +20,8 @@ Contents
 Put key information, that people will need to refer to often, towards the front and the back of the
 booklet.
 
-The two middle pages - if the programme is saddle-stitched, which is most likely the case - are
-also a good place to put key information, because the booklet will natually fall open at these
+The two middle pages - if the programme booklet is saddle-stitched, which is most likely the case -
+are also a good place to put key information, because the booklet will natually fall open at these
 pages.
 
 Contents can include:

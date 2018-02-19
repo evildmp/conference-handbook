@@ -82,13 +82,4 @@ always better to write directly to a named person, preferably one with whom you'
 contact.
 
 Write describing the event, mentioning the web page listing your sponsorship levels, and including
-a copy of the :ref:`sponsorship prospectus <sponsorship_prospectus>`. See the :doc:`sponsorship
-request template </documents/sponsorship-request>` for suggestions.
-
-
-To be completed
-===============
-
-* don't be tempted into special deals
-* thanking sponsors
-* what sponsors mean to the event
+a copy of the :ref:`sponsorship prospectus <sponsorship_prospectus>`.

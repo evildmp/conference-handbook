@@ -19,5 +19,3 @@ lacks an adequate code of conduct for example.
 
    code-of-conduct
    diversity
-   accessibility
-   everybody_pays

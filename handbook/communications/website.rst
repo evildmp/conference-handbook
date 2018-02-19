@@ -1,3 +1,5 @@
+.. _website:
+
 =======
 Website
 =======
@@ -21,7 +23,7 @@ What to publish when
 *As soon as possible*, the website should contain information about:
 
 * dates
-* :doc:`/essentials/venues`
+* :ref:`venues`
 
 This will allow people to make their basic plans.
 
@@ -29,7 +31,7 @@ Next most urgent are:
 
 * tickets and pricing
 * sponsorship options
-* :doc:`/essentials/accommodation`
+* :ref:`accommodation`
 * services that some people will rely upon, such as a crèche or :ref:`sttr`
 
 You should also publish your :doc:`/policies/code-of-conduct`.
@@ -42,7 +44,7 @@ In due course you will want to publish information about your call for proposals
 programme of talks and other events.
 
 If there are aspects of the conference that are particularly important to you (your
-:doc:`/policies/diversity` or :doc:`/policies/accessibility` initiatives for example), mention
+:ref:`diversity and accessibility <diversity>` initiatives for example), mention
 these at appropriate intervals. They may be *important*, but they're less *urgent* than information
 about venues.
 

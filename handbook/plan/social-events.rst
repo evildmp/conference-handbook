@@ -1,6 +1,5 @@
-.. _social_events:
+.. _social-events:
 
-=============
 Social events
 =============
 
@@ -28,13 +27,13 @@ thank-you.
 
 
 Alcohol
-=======
+-------
 
 Be aware that:
 
 * many people - probably more than you realise if you do drink yourself - don't drink alcohol
 * alcoholic drinks are more expensive than other drinks
-* alcohol has been known to fuel unwanted behaviour
+* alcohol can fuel unwanted behaviour
 
 It's fair to ensure that your non-drinking attendees are also catered for.
 
@@ -49,7 +48,7 @@ inappropriate behaviour at events are actually about what happens at conference 
 
 
 Code of conduct
-===============
+---------------
 
 Ensure that it's made very clear that the :doc:`conference code of conduct
 </policies/code-of-conduct>` not only applies to all social events, but even to informal and
@@ -57,7 +56,7 @@ unofficial gatherings of people attending the conference.
 
 
 Being a good host
-=================
+-----------------
 
 You - the committee - are the hosts, wherever your meal or part is being held. You should be the
 first to arrive and the last to sit down to eat or have a drink (this applies at social events - if

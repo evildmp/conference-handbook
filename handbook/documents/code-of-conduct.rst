@@ -1,3 +1,5 @@
+.. _code-of-conduct-text:
+
 ===============
 Code of conduct
 ===============

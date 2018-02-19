@@ -1,3 +1,5 @@
+..  _volunteers:
+
 ==========
 Volunteers
 ==========
@@ -8,17 +10,13 @@ Volunteers
    helpers who get involved in the running of the event, rather than the team that has organised
    it.
 
-Volunteers are one of the joys of running a conference.
+Volunteers are one of the pleasures of running a conference.
 
-In the Python/Django community, they're readily available. People want to volunteer and help - it's
-their conference and they want to be a part of it. Don't underestimate the number of people who'll
-be willing to help, or how hard they'll work or effective they will be.
+People want to volunteer and help - it's their conference and they want to be a part of it. Don't
+underestimate the number of people who'll be willing to help, or how hard they'll work or effective
+they will be.
 
-Take advantage of their generosity, and make sure you repay it.
-
-It's better, unless a volunteer comes forward who looks like an excellent candidate, to keep your
-committee separate from your pool of other volunteers. Your committee has to stay small, but your
-volunteers can be a larger and looser group.
+Your committee has to stay small, but your volunteers can be a larger and looser group.
 
 
 Enlisting volunteers
@@ -37,8 +35,7 @@ Roles for volunteers
 You'll need volunteers:
 
 * while setting up
-* :doc:`/procedures/bag-packing`
-* at :doc:`/procedures/registration`
+* at registration
 * on the registration desk during the event
 * to act as runners
 * while clearing up
@@ -53,7 +50,7 @@ Information
 
 Volunteers need to know what they should do and where they should be; the clearer you can be about
 this, the better. It should be in written forms, so that don't have to remember important things
-when they are in a rush. A :doc:`/documents/handbook-for-volunteers` will be invaluable.
+when they are in a rush. A handbook for volunteers can be valuable.
 
 This should contain:
 
@@ -75,12 +72,3 @@ be:
 
 And that's pretty much it. They should not be expected to investigate or resolve anything. Again,
 this should be provided in written form.
-
-
-Thanking your volunteers
-========================
-
-It's important to make it clear what the deal is for volunteers. :doc:`everybody-pays`, but it's
-fair enough to offer a volunteer-rate ticket. Your volunteers deserve to come to a speaker's dinner
-if there is one, and don't forget to have them all on stage at the end of the event to receive
-thanks from the audience.

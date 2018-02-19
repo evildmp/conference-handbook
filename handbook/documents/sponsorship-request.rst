@@ -1,3 +1,5 @@
+.. _sponsorship-request:
+
 ===================
 Sponsorship request
 ===================

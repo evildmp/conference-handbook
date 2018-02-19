@@ -4,184 +4,67 @@
 Timeline
 ========
 
-.. note:: How to use the timeline
+How to use the timeline
+=======================
 
-   The timeline is a calendar that **counts down** to the first day of your event. It this gives
-   you a clear synoptic and *visual* indication of your progress. You'll need your own, editable
-   copy, with actual dates in it.
+**The timeline counts down** to the first day of your event. It gives you visual indication of your
+progress. You may find it useful to have your own, editable copy, with actual dates in it.
 
-   You will need to adapt it to your own needs. For example if you have decided to hold an event in
-   six months' time, you'll need to compress the timeline substantially.
+The timeline is a guide. You will need to adapt it to your own needs. For example if you have
+decided to hold an event in six months' time, you'll need to compress the timeline substantially.
 
-   For each date in the timeline, any item that can't be checked off needs to be moved forward to
-   the next day or week.
-
-
-Two or three years
-==================
-
-In order to run a `DjangoCon <http://djangocon.eu>`_ or something like it, you need plenty of
-experience of similar events.
-
-Go to a DjangoCon, so you know what it's really like. In fact, don't just go to a DjangoCon, go to
-your local `PyCon <http://www.pycon.org>`_ and any other events you can.
-
-Better still, volunteer as a helper, or get involved - as a committee member, with talks selection,
-finding sponsors. Do any job that you think you can, so you get a bit of experience of it, and
-explain that you're anxious to help because you want the experience.
-
-It helps to know what it's like to be a speaker, so aim for that too.
-
-Not only does all of this give you the experience of as many aspects as possible of community
-software events, it also gives other people an experience of you - which is vital when you're
-asking an entire community to trust you with one of the most important weeks in their calendar.
-
-At all points, make a note - not just a mental note, :doc:`/organisation/write-it-down` - in a
-DjangoCon notes file - of how it was done, how it worked, what you would do to improve it.
-Seriously, **don't try to rely on your memory**.
+For each date in the timeline, don't forget to move any item that can't be checked off forward
+to the next day or week.
 
 
-Fifteen months
-==============
+Twenty-four to eighteen months
+==============================
 
-Three months from now you're going to have to present your proposal, so you need some information
-to hand.
+Form a :ref:`committee of organisers <committee>`, and make your basic plans. You need to decide on:
 
-Identify your location, your :doc:`/essentials/venues`, your ideal dates, your :ref:`general
-schedule <schedule>` and at least some :doc:`fellow organisers
-</organisation/committee>`.
+* :ref:`location`
+* :ref:`venues`
+* ideal :ref:`dates`
+* proposed :ref:`schedule <schedule>`
 
-Location
---------
 
-You need to be aware of and make judgements about:
+Eighteen to twelve months
+=========================
 
-* how people will travel to the location
-* whether there are easy and reasonably inexpensive connections from most places
-* suitable :doc:`/essentials/accommodation` available locally, that can be reserved for your
-  attendees
-* whether some attendees will be excluded, either because they won't be permitted or because they
-  might not be safe from harrassement - for example:
+Depending on local legislation, you may need to form a registered organisation, register for
+VAT/IVA/sales tax, etc.
 
-  * Israelis from many Arab countries, and vice-versa
-  * gay people in certain countries
+Turn your back-of-the-envelope budget calculations into something more carefully worked out.
 
-Dates
------
-
-Are your proposed dates likely to be affected by public holidays, scheduled elections, sporting
-events, `boy bands <http://2015.djangocon.eu/news/boy-band-disrupts-djangocon-europe/>`_, G8
-summits, religious holidays?
-
-It can be harder than you think to find a suitable window, especially for a larger event
-in a smaller city.
-
-Don't forget that your attendees may need a day either side of the event if they are travelling
-long distances.
-
-Venues
-------
-
-Make some initial enquiries at :doc:`local venues </essentials/venues>`, about:
-
-* capacity
-* suitability
-* availability
-* price
-* key :doc:`/essentials/services`:
-
-  * :ref:`catering`
-  * accessibility
-  * :ref:`Internet provision <internet>`
-
-Fellow organisers
------------------
-
-Whoever you have on paper at this stage won't necessarily be the ones involved in the end. People
-you haven't met will want to join in (and will turn out to be excellent contributors), and some who
-expected to be able to contribute will have to withdraw. But you still need to have a few people
-who plan to be involved. No-one's going to be very keen on a proposal that mentions only one
-organiser.
-
-If the other organisers have some experience already, so much the better.
-
-Presentation
-------------
-
-Prepare a short presentation document, mentioning all of the above, to show that even if you don't
-have all the answers you need you are at least aware of all the issues and are thinking about them.
-
-Budget
-------
-
-Make some back-of-the-envelope calculations:
-
-* no. of attendees
-* average ticket price
-* total ticket income
-* expected sponsorship income
-* venue and facilities hire
-* catering per person
-* total catering cost
-* other costs
-
-Does it look workable?
+Agree on dates and prices with the venues.
 
 
 Twelve months
 =============
 
-Immediately before presenting the proposal, ask your venues to pencil you in for your preferred
-dates.
-
-Turn your back-of-the-envelope calculations into something more carefully worked out. Err always on
-the side of caution.
-
-Make your proposal.
-
-Success?
---------
-
-Congratulations, be prepared for twelve months of extremely hard work.
-
-As soon as your proposal is accepted, contact the venues and hotels you previously spoke to and
-start firming up your plans. Scrutinise the calendars very carefully.
-
-Agree on dates and prices with the venues.
-
 Agree on special conference pricing with some hotels. Get agreements about the number of rooms that
 will be reserved for your attendees.
 
-Start collecting names and contact details of potential :doc:`sponsors </sponsorship>`.
+Start collecting names and contact details of potential sponsors.
 
 
 Eleven months
 =============
 
-Form :doc:`your committee </organisation/committee>`. Have your first meeting. Set up your
-:doc:`internal communications channels </organisation/internal-communications>` (email list, IRC
-channel, to-do list, etc.)
-
-Depending on local legislation, you may need to form a registered (for example for tax purposes)
-organisation, register for VAT/IVA/sales tax, etc.
-
-Buy :doc:`/essentials/insurance`; buying insurance that you turn out not to have needed is better
-than needing insurance you didn't buy.
+Buy :ref:`insurance`.
 
 Start working on the things you'll need to have made decisions on before you go public:
 
-* numbers of :ref:`attendees`
 * precise :ref:`schedule`
-* :doc:`ticket </tickets>` pricing structure
-* :doc:`/sponsorship` pricing structure
+* sponsorship pricing structure
 * graphic design and artwork
 
 
 Nine months
 ===========
 
-Get quotes for :doc:`audio-visual services and filming, editing and publishing of the sessions
-</essentials/services>`.
+Get quotes for :ref:`audio-visual services and filming, editing and publishing of the sessions
+<key_services>`.
 
 
 Eight months
@@ -191,7 +74,7 @@ Accessibility
 -------------
 
 If you're planning to offer a crèche, or :ref:`speech-to-text transcription <sttr>`, start
-discussing this with :doc:`/essentials/services` providers.
+discussing this with :ref:`key_services` providers.
 
 
 Seven months
@@ -227,16 +110,15 @@ Programme
 
 Think about:
 
-* :ref:`keynote talk <keynote_talks>` slots (how many, potential speakers, how long)
+* keynote talk slots (how many, potential speakers, how long)
 * timetables
 * length of available talk slots
 * tracks
 * workshops
 * sprints
 
-Your :doc:`programme of talks </talks/programme-of-talks>` is a going to be at the heart of all
-this. Most other things are flexible and to some extent movable; the talks programme is much less
-so.
+Your programme of talks is a going to be at the heart of all this. Most other things are flexible
+and to some extent movable; the talks programme is much less so.
 
 
 Six months

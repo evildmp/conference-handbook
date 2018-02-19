@@ -1,14 +1,8 @@
-==============
-Other services
-==============
+..  _other-services:
 
-
-To be completed
-===============
-
-* audio-visual services
-* filming
-* crèche
+========================
+Other important services
+========================
 
 .. _internet:
 
@@ -83,11 +77,9 @@ Your STTRs should also be provided with:
 * a list of the most commonly technical terms you expect speakers to use
 * plenty of thank-yous from the podium
 
+
 Why you need it
 ---------------
-
-In fact you'll find that during breaks the STTRs receive a lot of attention and kind words from
-your attendees.
 
 Usually speech-to-text reporting is provided for people with hearing impairments, but in fact just
 about *everyone* benefits from it. Attendees whose first language is not English - a significant
@@ -100,10 +92,6 @@ the screens and pick up the thread again.
 For people who actually have hearing impairments, speech-to-text reporting can be enough to make it
 worth coming to an event in the first place.
 
-At DjangoCon Europe 2015, the STTRs and the service they provided turned out to be one of the most
-memorable parts of the event. Dozens of people made a point of telling us how the speech-to-text
-reporting had improved the conference for them, and the STTRs received a long standing ovation and
-flowers from the audience in appreciation.
 
 Cost
 ----

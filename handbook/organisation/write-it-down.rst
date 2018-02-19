@@ -1,10 +1,12 @@
+..  _write-it-down:
+
 =============
 Write it down
 =============
 
 .. warning:: **You cannot rely on your memory, however good it is.**
 
-    The successful planning and execution of a conference requires an olympian feat of attention to
+    The successful planning and execution of a conference requires great attention to
     detail.
 
     You will have so many things to remember, many of which need to be delivered at precisely the
@@ -14,11 +16,11 @@ Write it down
 You need to find a way first, to capture everything that needs to be captured, and second, to put
 it in a place where it will come to hand in when you need it.
 
+
 Capturing the things that come to mind
 ======================================
 
-If you're already in the habit of writing everything down as soon as it comes to mind, good. If
-not, now is the time to get into the habit.
+Get into the habit of writing everything down as soon as it comes to mind.
 
 Everything needs to be recorded somewhere other than the inside of your own head.
 
@@ -27,9 +29,6 @@ part of the organisation and planning needs to be accessible to the other confer
 Secondly, even for your own purposes the inside of your head isn't a safe place - you will forget
 things that aren't written down.
 
-"Everything" really does mean everything. Every idea, thought, concern, thing to be done, *bon mot*
-for your speaker introductions, every thing that needs to mentioned in the programme booklet.
-
 Every time you think of something, dump it as quickly as possible into external storage, whether
 it's on paper or in an electronic form, or even as a voice memo to yourself. Find a way to do this
 with the minimum possible friction.
@@ -37,6 +36,7 @@ with the minimum possible friction.
 Don't worry about structuring it or getting it down in its final form, because you can take a
 minute or so each day to move items into the appropriate files when you're not rushing about doing
 something else.
+
 
 Ensuring that everything will be at hand
 ========================================
@@ -51,8 +51,3 @@ When you're on stage at the end of the event thanking people, that is not when y
 racking your memory to ensure that you don't forget to thank someone important. You want that to be
 able to go on stage and know that if someone needs to be thanked, your slides, or the notes that
 you know you'll have in your hand, will prompt you.
-
-To be completed
-===============
-
-* tracking things that need to be done

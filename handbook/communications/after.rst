@@ -1,3 +1,5 @@
+.. _communications-after:
+
 ===============
 After the event
 ===============
@@ -21,13 +23,6 @@ your:
 * general attendees
 
 questions appropriate to them.
-
-
-Update this document
-====================
-
-On the basis of attendee feedback please update this handbook. Suggestions for improvement are very
-welcome, especially if you found that any advice here was unhelpful.
 
 
 Provide the feedback to next year's organisers

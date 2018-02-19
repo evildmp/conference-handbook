@@ -1,5 +1,0 @@
-=============
-Accessibility
-=============
-
-To be completed

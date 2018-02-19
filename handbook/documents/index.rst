@@ -12,6 +12,4 @@ These are suggested examples of documents that you might find it useful to adapt
    :maxdepth: 1
 
    code-of-conduct
-   handbook-for-volunteers
-   welcome-address
    sponsorship-request

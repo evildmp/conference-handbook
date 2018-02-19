@@ -1,3 +1,5 @@
+..  _accommodation:
+
 =============
 Accommodation
 =============
@@ -58,10 +60,7 @@ should be along the lines:
     Can you give us a code that the attendees can quote when booking in order to get the special
     rate?
 
-Hotels are generally happy to agree to this. They may stipulate that the guaranteed rate will only
-be available for bookings made before a certain date, but that's fine.
-
-It's advisable to spread this across a few different hotels.
+Hotels are generally happy to agree to this. It's advisable to spread this across a few different hotels.
 
 For each hotel, make a note of the person you're dealing with and their direct phone number or
 email address.
@@ -78,9 +77,7 @@ enquiries about how many reservations have been made. Add notes into your :doc:`
 Bed and breakfast accommodation
 -------------------------------
 
-Let your attendees sort this out for themselves. It's worth noting that depending on where you live,
-"bed and breakfast" can mean quite different things. In the UK, it means what it says. In Germany,
-it apparently doesn't include breakfast. Perhaps in some places it doesn't even include a bed.
+Let your attendees sort this out for themselves.
 
 
 Using accommodation complexes
@@ -109,5 +106,4 @@ A `map showing your venues and suggested places to stay
 1shotel!3m3!1shotel!2sCardiff+City+Hall,+Gorsedd+Gardens+Road,+Cardiff+CF10+3ND!3s0x486e1cba4df70b67
 :0x6c4de08828721b10!3m1!1s0x0000000000000000:0x6c4de08828721b10?hl=en>`_ is helpful.
 
-Some people will be looking for room-mates or house-mates for the duration of the event. Set up `a
-wiki to help them organise themselves <http://djangocon.wikia.com/wiki/DjangoCon_Wikia>`_.
+Some people will be looking for room-mates or house-mates for the duration of the event - help them find a room-mate, for example by providing an email list for attendees.

@@ -1,8 +1,8 @@
 .. _define:
 
-=======================
-Define your conference
-=======================
+
+Plan your event
+======================================
 
 
 Various things will determine the fundamental shape and character of your event, including its
@@ -19,13 +19,11 @@ An established event will largely have these questions settled, by remit and tra
 organising a DjangoCon, you'll know what's expected for example. If you're holding a new event,
 you'll need to make some decisions.
 
-.. toctree::
-   :maxdepth: 1
+..  toctree::
+    :maxdepth: 1
 
-   schedule
-   attendees
-   social-events
-
-:doc:`/essentials/venues` and location are part of this too, but are discussed elsewhere.
-
-The ethos of the conference will be determined by the :doc:`/policies/index` you adopt.
+    location
+    venues
+    dates
+    schedule
+    social-events
