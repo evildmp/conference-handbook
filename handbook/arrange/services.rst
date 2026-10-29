@@ -40,6 +40,22 @@ preferably two people whom you can call on if you run into serious problems. Hav
 or alternative network provision.
 
 
+Slide and pointer rehearsal
+---------------------------
+
+Before the first session, run a short check with the presenter and a person
+watching from an audience seat. If remote attendees will join, include
+someone viewing the actual screen share. Check that each viewer can name
+the same detail on a slide, using its label or position as well as a
+pointing cue.
+
+The `blank slide-reference rehearsal record
+<https://light-tracer.com/wp-content/uploads/2026/10/hybrid-pointing-rehearsal-record-open-v1.pdf>`_
+can be used to note the setup, the intended detail, what each viewer
+identifies and any adjustment to try. It is an optional two-page worksheet
+from Light Tracer, available under CC BY 4.0.
+
+
 .. _sttr:
 
 Speech-to-text reporting
